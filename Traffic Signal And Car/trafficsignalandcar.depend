@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606583641 source:c:\users\dell\desktop\important documents\computer graphs experiments\cg\obj\trafficsignalandcar\traficcar.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+
+1606584131 source:c:\users\dell\desktop\important documents\computer graphics experiments\cg programs\obj\trafficsignalandcar\traficcar.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+
